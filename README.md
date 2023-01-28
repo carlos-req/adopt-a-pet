@@ -59,7 +59,7 @@ This clones the repository to your local machine. It has a root directory called
 
 After that you can open the project in your text editor of choice. I use Visual Studio Code and launch it from the command line. [Learn how here](https://code.visualstudio.com/docs/setup/mac).
 
-6. Once you have the project open, you need to install the dependencies. Run this in your command line from the root (mad-libzz folder) of the project:
+6. Once you have the project open, you need to install the dependencies. Run this in your command line from the root (adopt-a-pet folder) of the project:
 
 `npm install`
 
