@@ -2,7 +2,7 @@
 
 Look around to find a pet that needs a new home!
 
-[Pet Lovers](https://madlibzz.netlify.app/) 🐶
+[Pet Lovers: Not Live Yet]() 🐶
 
 ## Table of Contents
 
@@ -12,27 +12,27 @@ Look around to find a pet that needs a new home!
 - [Attributions](#attributions)
 
 <p align="center">
-    <img alt="Pet Lovers Roscoe Looking for adoption" src="images/madlibz.png">
+    <img alt="Pet Lovers Roscoe Looking for adoption" src="images/Roscoe.png">
 </p>
 
 ### Screenshots
 
-Example of the intial screen you get on Pet Lovers. Search term added for illustration 🙂
+Example of the intial screen you get on Pet Lovers.🙂🐶
 
 <p align="center">
-    <img alt="Pet Lovers Home page" src="images/madlibzscreenshot.png">
+    <img alt="Pet Lovers Home page" src="images/home.png">
 </p>
 
-This a screen shot of one of the different categories of animals you can find to adopt.
+This a screen shot of one of the different pet profiles.
 
 <p align="center">
-    <img alt="Pet Lovers Categories" src="images/madlibzscreenshot2.png">
+    <img alt="Pet Lovers pet profiles" src="images/petprofile.png">
 </p>
 
 Example of clicking on a pet details not found or unavailable.
 
 <p align="center">
-    <img alt="Pet Lovers not found page 404" src="images/madlibzscreenshot2.png">
+    <img alt="Pet Lovers not found page 404" src="images/404page.png">
 </p>
 
 ### Setup
@@ -41,7 +41,7 @@ Git, Node.js, and NPM are required to run this project. Install Git by [followin
 
 1. Click the green code button:
 
-<img alt="Screenshot showing the green code button on GitHub" src="">
+<img alt="Screenshot showing the green code button on GitHub" src="images/clone.png">
 
 2. From there, click the button to the right of the URL under HTTPS. This will copy the URL of the repository.
 
@@ -51,7 +51,7 @@ Git, Node.js, and NPM are required to run this project. Install Git by [followin
 
 `git clone https://github.com/carlos-req/adopt-a-pet.git `
 
-This clones the repository to your local machine. It has a root directory called `mad-libzz` to store all the files.
+This clones the repository to your local machine. It has a root directory called `adopt-a-pet` to store all the files.
 
 5. Change directories into that folder:
 
